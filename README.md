@@ -9,8 +9,9 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 
 ### 2022
 
-+ [[MICRO](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9923793)] A programmable, energy-minimal dataflow compiler and architecture.
++ [[MICRO](https://ieeexplore.ieee.org/document/9923793)] RipTide: A Programmable, Energy-Minimal Dataflow Compiler and Architecture
 + [[ISCA](https://dl.acm.org/doi/pdf/10.1145/3470496.3533040)] The Mozart reuse exposed dataflow processor for AI and beyond: industrial product
++ [[ISSCC](https://ieeexplore.ieee.org/document/9731612)] SambaNova SN10 RDU: A 7nm Dataflow Architecture to Accelerate Software 2.0
 
 ### 2021
 
@@ -26,6 +27,7 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 ### 2019
 
 + [[Commun. ACM](https://dl.acm.org/doi/pdf/10.1145/3323923)] Heterogeneous Von Neumann/dataflow microprocessors
++ [[ACM Computing](https://dl.acm.org/doi/abs/10.1145/3357375)] A Survey of Coarse-Grained Reconfigurable Architecture and Design: Taxonomy, Challenges, and Applications
 
 ### 2018
 
@@ -33,7 +35,26 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 
 + [[ISCA](https://pages.cs.wisc.edu/~vinay/pubs/isca-softbrain.pdf)] Stream-dataflow acceleration
 + [[ISCA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8192487)] Plasticine: A reconfigurable architecture for parallel patterns
++ [[HPCA](https://ieeexplore.ieee.org/document/7920855)] FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks 
+
+### 2016
+
++ [[JSSC](https://ieeexplore.ieee.org/document/7738524)] Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks
 
 ### 2015
 
 + [[ISCA]()] Exploring the potential of heterogeneous von neumann/dataflow execution models
++ [[MICRO](https://ieeexplore.ieee.org/document/7856601)] A scalable architecture for ordered parallelism
+
+#### Before
+
++ [[DSD'13](https://dl.acm.org/doi/10.1109/DSD.2013.39)] The **TERAFLUX** Project: Exploiting the DataFlow Paradigm in Next Generation Teradevices
++ [[EXADAPT'11](https://dl.acm.org/doi/10.1145/2000417.2000424)] Using a "**codelet**" program execution model for exascale machines: position paper
++ [[ISCA'04](https://dl.acm.org/doi/10.1145/980152.980156)] **TRIPS**: A polymorphous architecture for exploiting ILP, TLP, and DLP
++ [[MICRO'03](https://ieeexplore.ieee.org/document/1253203)] **WaveScalar**
++ [[TC'1990](https://ieeexplore.ieee.org/document/48862)] Executing a program on the MIT tagged-token dataflow architecture
++ [[IEEE‘1987](https://ieeexplore.ieee.org/document/1458143)] Synchronous data flow
++ [[ACM Computing](https://dl.acm.org/doi/10.1145/27633.28055)]Dataflow machine architecture
++ [[Commun. ACM'1985](https://dl.acm.org/doi/abs/10.1145/2465.2468)] The Manchester prototype dataflow computer
++ [[ISCA'1975](https://dl.acm.org/doi/10.1145/642089.642111)] A preliminary architecture for a basic data-flow processor
+
