@@ -10,12 +10,16 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 + Tenstorrent, Jim Keller
 + Sambanova, Kunle
 + SimpleMachine 
++ cerebras
 
 ## Papers
 
 ### 2023
 
 + [[arxiv](https://arxiv.org/pdf/2302.06124.pdf)] Revet: A Language and Compiler for Dataflow Threads, Kunle
++ [OSDI 23] Welder: Scheduling Deep Learning Memory Access via Tile-graph, Shi [link](https://www.usenix.org/conference/osdi23/presentation/shi)
+
++ [[OSDI](https://www.usenix.org/conference/osdi23/presentation/zhang-chen)] COCKTAILER: Analyzing and Optimizing Dynamic Control Flow in Deep Learning
 
 ### 2022
 
@@ -39,6 +43,8 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 + [[Commun. ACM](https://dl.acm.org/doi/pdf/10.1145/3323923)] Heterogeneous Von Neumann/dataflow microprocessors, Tony
 + [[ACM Computing](https://dl.acm.org/doi/abs/10.1145/3357375)] A Survey of Coarse-Grained Reconfigurable Architecture and Design: Taxonomy, Challenges, and Applications, Tsinghua
 
++ [[MICRO](https://dl.acm.org/doi/10.1145/3352460.3358252)] Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach
+
 ### 2018
 
 ### 2017
@@ -59,6 +65,11 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 ### 2014
 
 + [[ISCA](https://ieeexplore.ieee.org/document/6853215)] HELIX-RC: An architecture-compiler co-design for automatic parallelization of irregular programs, Havard
+
++ [[Dataflow](https://ieeexplore.ieee.org/document/7089028)]DFGR: an Intermediate Graph Representation for Macro-Dataflow Programs
+
+### 2013
++ [[Dataflow](https://ieeexplore.ieee.org/document/6919196)] The Flexible Preconditions Model for Macro-Dataflow Execution
 
 #### Before
 
