@@ -16,6 +16,10 @@ Dataflow architecture is **a dataflow-based computer architecture that directly 
 
 ### 2023
 
++ [[ICCAD]](https://www.cse.cuhk.edu.hk/~byu/papers/C187-ICCAD2023-Klotski.pdf) Klotski: DNN Model Orchestration Framework for Dataflow Architecture Accelerators
+
++ [[ICCAD]](https://rohanjuneja.github.io/publication/flex.pdf) FLEX : Introducing FLEXible Execution on CGRA with Spatio-Temporal Vector Dataflow
+
 + [[arxiv](https://arxiv.org/pdf/2302.06124.pdf)] Revet: A Language and Compiler for Dataflow Threads, Kunle
 + [OSDI 23] Welder: Scheduling Deep Learning Memory Access via Tile-graph, Shi [link](https://www.usenix.org/conference/osdi23/presentation/shi)
 
